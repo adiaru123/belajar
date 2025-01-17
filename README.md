@@ -56,3 +56,4 @@ These instructions will help you set up and run the project on your local machin
 - fetch - Promise-based HTTP client for making API requests.
 - styled-components - CSS-in-JS library for styling components.# belajar
 # belajar
+# belajar2
